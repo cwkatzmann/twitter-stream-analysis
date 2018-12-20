@@ -1,0 +1,11 @@
+com/katzmann/chris/WindowedTweetCounts$2.class
+com/katzmann/chris/WindowedTweetCounts.class
+com/katzmann/chris/outputFormats/MongoDBOutputFormat$MongoDBOutputFormatBuilder.class
+com/katzmann/chris/WindowedTweetCounts$1.class
+com/katzmann/chris/WindowedTwitterPublicSentimentsAggregation.class
+com/katzmann/chris/reducers/ReduceTwitterSentiments.class
+com/katzmann/chris/aggregateFunctions/AggregateTwitterSentimentsFunction.class
+com/katzmann/chris/flatMappers/StringToEnglishOnlyJsonTweetsMapper.class
+com/katzmann/chris/mappers/TweetJsonNodeToTwitterSentimentsMapper.class
+com/katzmann/chris/dto/TwitterSentiments.class
+com/katzmann/chris/outputFormats/MongoDBOutputFormat.class

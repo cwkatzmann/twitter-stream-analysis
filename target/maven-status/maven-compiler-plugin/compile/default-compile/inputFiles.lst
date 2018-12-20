@@ -1,0 +1,8 @@
+/home/chris/flink-projects/TwitterStreamAnalysis/src/main/java/com/katzmann/chris/WindowedTwitterPublicSentimentsAggregation.java
+/home/chris/flink-projects/TwitterStreamAnalysis/src/main/java/com/katzmann/chris/dto/TwitterSentiments.java
+/home/chris/flink-projects/TwitterStreamAnalysis/src/main/java/com/katzmann/chris/reducers/ReduceTwitterSentiments.java
+/home/chris/flink-projects/TwitterStreamAnalysis/src/main/java/com/katzmann/chris/flatMappers/StringToEnglishOnlyJsonTweetsMapper.java
+/home/chris/flink-projects/TwitterStreamAnalysis/src/main/java/com/katzmann/chris/mappers/TweetJsonNodeToTwitterSentimentsMapper.java
+/home/chris/flink-projects/TwitterStreamAnalysis/src/main/java/com/katzmann/chris/outputFormats/MongoDBOutputFormat.java
+/home/chris/flink-projects/TwitterStreamAnalysis/src/main/java/com/katzmann/chris/WindowedTweetCounts.java
+/home/chris/flink-projects/TwitterStreamAnalysis/src/main/java/com/katzmann/chris/aggregateFunctions/AggregateTwitterSentimentsFunction.java
